@@ -20,3 +20,67 @@
 .App-link {
   color: #09d3ac;
 }
+
+.hide{
+  display:none;
+}
+.show{
+  display:block;
+}
+
+.fn-bd {
+  font-weight: bold;
+}
+
+.abc {
+  margin: 40px;
+  cursor: pointer;
+}
+.pqr {
+  padding: 10px;
+  margin: 10px;
+  border-radius: 20px;
+
+}
+button {
+  cursor: pointer;
+}
+button.fnt-45 {
+  font-size: 45px;
+}
+.pd-15 {
+  padding-top:15px;
+}
+.mr-15 {
+  margin: 15px;
+}
+
+.br-hd {
+  border:hidden;
+}
+.bg-tr {
+  background: transparent;
+}
+
+.bg-lg {
+  background: lightgrey;
+}
+
+.disp-flx {
+  display: inline-grid;
+}
+
+.blocks {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+
+.arrow p {
+  padding-left: 33px;
+}
+
+ 
+.arrow2 p{
+  padding-left: 30px;
+}
